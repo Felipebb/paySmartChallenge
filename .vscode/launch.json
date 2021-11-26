@@ -1,0 +1,24 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "api_teste",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/main.dart",
+            "args": [
+                "--dart-define", "APIKEY=2a6fab3778e53fa5fb4c08913d7ee765",
+                "--dart-define", "READACCESSTOKEN=eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyYTZmYWIzNzc4ZTUzZmE1ZmI0YzA4OTEzZDdlZTc2NSIsInN1YiI6IjYxOWMyMmE3NWUxMjAwMDA2M2MwODdkNiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.ZZgzR0BYz3y9Qm6eOCQXeznRZCkCC_WhqBI84G_xXaM"
+            ],
+        },
+        {
+            "name": "api_teste (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        }
+    ]
+}
