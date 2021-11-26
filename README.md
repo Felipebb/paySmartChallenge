@@ -1,4 +1,4 @@
-# api_teste
+# paySmartChallenge
 
 A new Flutter project.
 
